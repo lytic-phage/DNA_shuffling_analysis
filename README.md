@@ -2,4 +2,4 @@
 Identify and visualize the chimeric structure of DNA shuffled gene sequences
 
 #Changelog
-v0.71 - added option to set arbitrary Y-axis maximum
+v0.5 - first feature complete version
